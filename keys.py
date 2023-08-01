@@ -1,0 +1,3 @@
+OPENAI_API_KEY = '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'
+PINECONE_API_KEY = '8eaea7f2-4fa2-4202-8f86-bda60c6f627f'
+PINECONE_API_ENV = 'asia-southeast1-gcp-free'
